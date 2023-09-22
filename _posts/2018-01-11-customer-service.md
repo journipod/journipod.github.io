@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Test"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
