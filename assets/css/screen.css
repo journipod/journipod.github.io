@@ -27,7 +27,8 @@ pre {
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 7px;
-    font-family: monospace, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: monospace, Roboto; */
     font-size: .9rem;
     white-space: pre;
     overflow: auto;
@@ -305,7 +306,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Righteous; */
 }
 
 .mainheading h1.posttitle {
@@ -330,7 +332,8 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Merriweather; */
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);

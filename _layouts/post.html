@@ -46,6 +46,31 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
+                
+                
+                <!-- Estimated Read Time -->
+                    <div id="read-time"></div>
+
+                    <!-- Post Content -->
+                    <div class="post-content">
+                        <!-- Your post content goes here -->
+                        <!-- <p>This is a sample Markdown content...</p> -->
+                    </div>
+
+                    <script>
+                        // JavaScript code to calculate read time
+                        function calculateReadTime() {
+                            const content = document.querySelector(".post-content").textContent;
+                            const wordsPerMinute = 100; // Adjust as needed
+                            const wordCount = content.split(/\s+/).length;
+                            const readTimeMinutes = Math.ceil(wordCount / wordsPerMinute);
+                            return readTimeMinutes;
+                        }
+
+                        const readTime = calculateReadTime();
+                        const readTimeElement = document.getElementById("read-time");
+                        readTimeElement.textContent = `Estimated Read Time: ${readTime} minute${readTime === 1 ? "" : "s"}`;
+                    </script>
 
             </div>
 
