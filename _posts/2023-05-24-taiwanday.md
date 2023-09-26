@@ -19,7 +19,6 @@ rating: 4.5
 
 ![Frittata]({{ site.baseurl }}/assets/images/20230524-TaiwanDay-5.JPG)
 
-![TaiwanDay]({{ site.baseurl }}/assets/images/20230524-TaiwanDay.MOV)
 
 今天的台灣日重頭戲是樂天女孩，他們最近非常紅。這難得的 Taiwan Day，天使隊打出了三支全壘打，其中包括兩位大明星和球隊支柱 Mike Trout 和大谷翔平。我和幾位朋友一起前往，玩得不亦樂乎，吶喊聲幾乎讓我們都失聲。
 
