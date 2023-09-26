@@ -2,7 +2,7 @@
 layout: post
 title:  "探索梅薩綠地國家公園: 美國西部印地安文化的瑰寶"
 author: Sara
-categories: [ Jekyll, tutorial ]
+categories: [ Travel ]
 tags: [red, yellow]
 image: assets/images/201708Mesa-2.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."

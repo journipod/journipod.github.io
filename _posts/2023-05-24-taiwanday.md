@@ -2,8 +2,8 @@
 layout: post
 title:  "洛杉磯天使隊-台灣日"
 author: Sara
-categories: [ Personal ]
-image: assets/images/20230524-TaiwanDay-1.jpg
+categories: [ Event ]
+image: assets/images/20230524-TaiwanDay-1.JPG
 #Description: "  "
 featured: false
 hidden: false
