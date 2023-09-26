@@ -2,7 +2,7 @@
 layout: post
 title:  "Cooking Journey: How 'Julie & Julia' Sparked a Culinary Adventure Within Me"
 author: Sara
-categories: [ Food, Cooking ]
+categories: [ Cooking]
 image: assets/images/0922cooking.jpg
 featured: true
 hidden: true
