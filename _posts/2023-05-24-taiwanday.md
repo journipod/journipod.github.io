@@ -31,4 +31,4 @@ rating: 4.5
 此外，台灣日還有豐富的文化表演，包括舞蹈表演和音樂演出，展現了台灣多元的文化風貌。
 總而言之，這次的台灣日活動讓我留下了美好的回憶，不僅享受到了精彩的棒球比賽，還感受到了台灣的熱情和文化魅力。期待明年的台灣日，再次與朋友們共度一個難忘的時光。
 
-![Frittata]({{ site.baseurl }}/assets/images/20230524-TaiwanDay-4.jpg)
+![Frittata]({{ site.baseurl }}/assets/images/20230524-TaiwanDay-4.JPG)
