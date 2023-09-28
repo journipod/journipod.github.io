@@ -58,21 +58,22 @@ post_class: post-template
                     </div>
 
                     <script>
-                        // JavaScript code to calculate read time
-                        function calculateReadTime() {
-                            const content = document.querySelector(".post-content").textContent;
-                            const wordsPerMinute = 100; // Adjust as needed
-                            const wordCount = content.split(/\s+/).length;
-                            const readTimeMinutes = Math.ceil(wordCount / wordsPerMinute);
-                            return readTimeMinutes;
-                        }
+                        // JavaScript code to calculate read time when the content is ready
+                        document.addEventListener("DOMContentLoaded", function () {
+                            function calculateReadTime() {
+                                const content = document.querySelector(".post-content").textContent;
+                                const wordsPerMinute = 100; // Adjust as needed
+                                const wordCount = content.split(/\s+/).length;
+                                const readTimeMinutes = Math.ceil(wordCount / wordsPerMinute);
+                                return readTimeMinutes;
+                            }
 
-                        const readTime = calculateReadTime();
-                        const readTimeElement = document.getElementById("read-time");
-                        readTimeElement.textContent = `Estimated Read Time: ${readTime} minute${readTime === 1 ? "" : "s"}`;
+                            const readTime = calculateReadTime();
+                            const readTimeElement = document.getElementById("read-time");
+                            readTimeElement.textContent = `Estimated Read Time: ${readTime} minute${readTime === 1 ? "" : "s"}`;
+                        });
                     </script>
 
-            </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
