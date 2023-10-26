@@ -161,6 +161,7 @@ crossorigin="anonymous"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-f5_NIitM_7VOMm9njBeoAB787nhBEuj1cJMw5qRD4rfrw_tF53B26ZwH8i5eI1m_" crossorigin="anonymous"></script>
 <br>
+<!-- The following is Google Ads -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
      crossorigin="anonymous"></script>
 <br>
