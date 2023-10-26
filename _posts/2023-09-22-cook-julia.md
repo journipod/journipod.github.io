@@ -4,8 +4,8 @@ title:  "Cooking Journey: How 'Julie & Julia' Sparked a Culinary Adventure Withi
 author: Sara
 categories: [ Cooking]
 image: assets/images/0922cooking.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 ---
 Cooking has never been my strong suit; it is more like a daily ordeal. The mere thought of stepping into the kitchen to create a meal from scratch used to intimidate me. But everything changed when I watched the captivating movie "Julie & Julia," which ignited a fire within me to take on a thrilling challenge and embark on my culinary journey.
