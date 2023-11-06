@@ -6,11 +6,11 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 analytics:
-  provider: "google-gtag"
+  provider: 'google-gtag'
   google:
-    tracking_id:"G-1NT6GJ7YWN"
+    tracking_id: 'G-1NT6GJ7YWN'
     anonymize_ip: false # default
-# google_analytics: ''
+google_analytics: '414730699'
 #disqus: 'journipod'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
