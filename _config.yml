@@ -5,7 +5,12 @@ description: "A blog about Travel, Food and Reading"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-google_analytics: 'UA-46278016-1'
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id:"G-1NT6GJ7YWN"
+    anonymize_ip: false # default
+# google_analytics: ''
 #disqus: 'journipod'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
