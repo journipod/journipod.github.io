@@ -29,3 +29,6 @@ Mesa Verde是西班牙語中綠色餐桌的意思，它是一個坐落在高聳�
 我們到達的那一天，正好是2017年8月21日的日全蝕。以下是用手機拍出來的!
 
  ![image]({{ site.baseurl }}/assets/images/ 201708Mesa-4.jpg)
+
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
+     crossorigin="anonymous"></script>

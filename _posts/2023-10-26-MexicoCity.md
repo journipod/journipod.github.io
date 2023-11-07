@@ -175,4 +175,7 @@ crossorigin="anonymous"></script>
 
   gtag('config', 'G-1NT6GJ7YWN');
 </script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
+     crossorigin="anonymous"></script>
 <br>

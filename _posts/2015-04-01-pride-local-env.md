@@ -20,3 +20,7 @@ Taipei, where I live now is the best environment that I am proud of, even it’s
 ![image]({{ site.baseurl }}/assets/images/20150401prideenv.png)
 
 Taipei 四四南村
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
+     crossorigin="anonymous"></script>
