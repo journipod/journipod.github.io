@@ -167,15 +167,11 @@ crossorigin="anonymous"></script>
 
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1NT6GJ7YWN"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-1NT6GJ7YWN');
+  gtag('config', 'G-VJSP86KJVY');
 </script>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
-     crossorigin="anonymous"></script>
-<br>

@@ -29,3 +29,13 @@ Pasta funsion-Chinese fried noodle
 As I share my culinary voyage with the world, I hope my dishes stir inspiration and foster a love for cooking in seasoned food enthusiasts and curious beginners alike. Who knows? Like Julie, I might eventually craft my unique recipes, adding a personal touch to my culinary repertoire.
 
 So, let us embrace the blissful journey of exploring diverse flavors and mastering new techniques. Here's to the joy of cooking and the endless adventures awaiting in the heart of our kitchens!
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
