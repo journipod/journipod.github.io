@@ -9,7 +9,17 @@ featured: false
 hidden: false
 rating: 4.5
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 今年剛好有機會參加這個盛事，不知道是否有機會能見到中華職棒樂天桃猿的專屬樂天啦啦隊！當然，最讓我期待的是大谷翔平。
 我立刻問了我媽是否能幫忙買票。談到我媽，她真的是神通廣大，參加非常多的活動。下次我會好好介紹她自豪的經歷。
 
@@ -33,12 +43,3 @@ rating: 4.5
 
 ![Frittata]({{ site.baseurl }}/assets/images/20230524-TaiwanDay-4.JPG)
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>

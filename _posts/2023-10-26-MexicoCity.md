@@ -8,6 +8,17 @@ featured: true
 hidden: true
 rating: 4.5
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 As a teenager, I traveled with my family from Los Angeles to Tijuana, Mexico. Back then, I mistakenly believed that Tijuana was the entirety of Mexico. However, years later, my perspective changed after stumbling upon a captivating YouTube video that opened my eyes to the wonders of Mexico. "Wow" was the only word on my mind as I watched.
 
 ### Mexico City: A World of Wonders
@@ -165,13 +176,3 @@ crossorigin="anonymous"></script>
      crossorigin="anonymous"></script>
 <br>
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>

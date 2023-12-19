@@ -8,6 +8,17 @@ featured: false
 hidden: false
 rating: 4.5
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 Cooking has never been my strong suit; it is more like a daily ordeal. The mere thought of stepping into the kitchen to create a meal from scratch used to intimidate me. But everything changed when I watched the captivating movie "Julie & Julia," which ignited a fire within me to take on a thrilling challenge and embark on my culinary journey.
 
 In the film, a talented writer, Julie Powell, takes on the audacious task of cooking through Julia Child's cookbook in a year. Her determination and passion for culinary arts inspired me to attempt something similar.
@@ -30,12 +41,3 @@ As I share my culinary voyage with the world, I hope my dishes stir inspiration 
 
 So, let us embrace the blissful journey of exploring diverse flavors and mastering new techniques. Here's to the joy of cooking and the endless adventures awaiting in the heart of our kitchens!
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>

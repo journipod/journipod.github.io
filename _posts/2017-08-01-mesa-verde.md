@@ -10,7 +10,17 @@ featured: false
 hidden: false
 rating: 4.5
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 Mesa Verde 國家公園是美國最獨特的國家公園之一，同時也是聯合國教科文組織認可的世界文化遺產。它位於科羅拉多州的Mesa 綠地高原上，是美國土著居民安薩茲人和皮納人（Anasazi Pueblo）的故居，被譽為西部印第安文化的標誌。
 
 梅薩綠地國家公園是一個充滿神秘感和魅力的地方，擁有壯觀的景觀和令人嘆為觀止的建築物。遊客可以參觀安薩茲人和皮納人的古代遺址，並體驗當地土著居民的生活方式。在這裡，你可以看到古老的建築物、精美的壁畫、雕刻和紡織品，以及保存完好的物品和遺跡。
@@ -34,12 +44,3 @@ Mesa Verde是西班牙語中綠色餐桌的意思，它是一個坐落在高聳�
      crossorigin="anonymous"></script>
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>

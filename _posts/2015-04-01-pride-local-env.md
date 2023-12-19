@@ -8,7 +8,17 @@ featured: false
 hidden: false
 rating: 4
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 A year ago, I took an online course "The Search for Vernacular Architecture of Asia, Part1", I really enjoyed this class which I learned "defining vernacular architecture and Threats in Asia to traditional vernacular architecture". I've also had this pleasure to express how I feel about our local built environment and what makes me proud to classmate from the world. And I thought I could also share in public to express my opinion as well.
 
 I live in Taipei because of job, and I am very proud of the local environment nearby 101 building in Xinyi District of Taipei. When we look for the vernacular architecture, I personally think that in Asia country sometimes is required to tear down the old buildings and build another new building for the economic growth. However, the reason I like Taipei is because the government keeps some heritage building open to public, also setting the guideline for people to get more understanding of our culture.
@@ -25,12 +35,3 @@ Taipei 四四南村
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
      crossorigin="anonymous"></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>

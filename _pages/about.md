@@ -4,7 +4,17 @@ title: Story about journipod
 permalink: /about
 #comments: false
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 Welcome to journipod, where every adventure finds its story! This blog is the digital diary of my travels, road trips, and the fascinating moments that unfold along the way.
 
 In a world where diaries used to be penned in notebooks, the evolution of documenting experiences has taken on a vibrant new form. My journey began by blending the traditional essence of diary writing with the modern elements of visuals, maps, and shared references through apps. It was a seamless transition that allowed me to capture moments and entire experiences.
@@ -18,15 +28,7 @@ Stay tuned; there are more stories to come as the blog evolves!
 
 About Author <a target="_blank" href="https://www.isarahu.com/about/"> Sara Hu </a>
  
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-VJSP86KJVY');
-</script>
 
 
 <!--
