@@ -19,6 +19,8 @@ rating: 4.5
   gtag('config', 'G-VJSP86KJVY');
 </script>
 <meta name="google-adsense-account" content="ca-pub-9006173418797422">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
+     crossorigin="anonymous"></script>
 </head>
 Cooking has never been my strong suit; it is more like a daily ordeal. The mere thought of stepping into the kitchen to create a meal from scratch used to intimidate me. But everything changed when I watched the captivating movie "Julie & Julia," which ignited a fire within me to take on a thrilling challenge and embark on my culinary journey.
 
