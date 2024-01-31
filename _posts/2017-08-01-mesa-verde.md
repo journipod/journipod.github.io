@@ -29,6 +29,19 @@ Mesa Verde是西班牙語中綠色餐桌的意思，它是一個坐落在高聳�
 
  ![image]({{ site.baseurl }}/assets/images/201708Mesa-4.jpg)
 
+ ---
+ <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
+
  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
      crossorigin="anonymous"></script>
 

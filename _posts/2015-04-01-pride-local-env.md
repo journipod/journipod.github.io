@@ -20,6 +20,18 @@ Taipei, where I live now is the best environment that I am proud of, even it’s
 
 Taipei 四四南村
 
+---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
      crossorigin="anonymous"></script>

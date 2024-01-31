@@ -32,3 +32,15 @@ rating:
 
 ![Frittata]({{ site.baseurl }}/assets/images/20230524-TaiwanDay-4.JPG)
 
+---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJSP86KJVY');
+</script>
+</head>
