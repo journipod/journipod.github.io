@@ -1,26 +1,15 @@
 ---
 layout: post
 title:  "探索梅薩綠地國家公園: 美國西部印地安文化的瑰寶"
-author: Sara
+author: 
 categories: [ Travel ]
 tags: [red, yellow]
 image: assets/images/201708Mesa-2.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: false
 hidden: false
-rating: 4.5
+rating: 
 ---
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>
-</head>
 Mesa Verde 國家公園是美國最獨特的國家公園之一，同時也是聯合國教科文組織認可的世界文化遺產。它位於科羅拉多州的Mesa 綠地高原上，是美國土著居民安薩茲人和皮納人（Anasazi Pueblo）的故居，被譽為西部印第安文化的標誌。
 
 梅薩綠地國家公園是一個充滿神秘感和魅力的地方，擁有壯觀的景觀和令人嘆為觀止的建築物。遊客可以參觀安薩茲人和皮納人的古代遺址，並體驗當地土著居民的生活方式。在這裡，你可以看到古老的建築物、精美的壁畫、雕刻和紡織品，以及保存完好的物品和遺跡。
@@ -38,7 +27,7 @@ Mesa Verde是西班牙語中綠色餐桌的意思，它是一個坐落在高聳�
 
 我們到達的那一天，正好是2017年8月21日的日全蝕。以下是用手機拍出來的!
 
- ![image]({{ site.baseurl }}/assets/images/ 201708Mesa-4.jpg)
+ ![image]({{ site.baseurl }}/assets/images/201708Mesa-4.jpg)
 
  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
      crossorigin="anonymous"></script>

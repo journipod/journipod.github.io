@@ -1,24 +1,13 @@
 ---
 layout: post
 title:  "Dispersed Camping at Painted Canyon"
-author: Sara
+author: 
 categories: [ Travel, Camping ]
 image: assets/images/0721paint-1.jpg
 featured: true
 hidden: true
-rating: 4.5
+rating: 
 ---
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>
-</head>
 It's the beginning of summer, and the desert heat wraps around us as we venture into the boiling Painted Canyon. Armed with our rooftop tent, we set off on an unforgettable camping escapade, promising stunning views, challenging hikes, and the serenity of the starlit desert sky. Join us as we share the story of our dispersed camping adventure in the captivating Painted Canyon.
 When we arrived, it was around 104°. We hesitated to lace up our hiking boots and fill water bottles before embarking on the Ladder Canyon trail. It's our second hike in Ladder Canyon, and the entrance is not so visible for the first time. Look out for the arrow sign on the ground pointing to the entry. 
 

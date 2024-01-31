@@ -1,27 +1,13 @@
 ---
 layout: post
 title:  "Cooking Journey: How 'Julie & Julia' Sparked a Culinary Adventure Within Me"
-author: Sara
+author: 
 categories: [ Cooking]
 image: assets/images/0922cooking.jpg
 featured: false
 hidden: false
-rating: 4.5
+rating: 
 ---
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJSP86KJVY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VJSP86KJVY');
-</script>
-<meta name="google-adsense-account" content="ca-pub-9006173418797422">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9006173418797422"
-     crossorigin="anonymous"></script>
-</head>
 Cooking has never been my strong suit; it is more like a daily ordeal. The mere thought of stepping into the kitchen to create a meal from scratch used to intimidate me. But everything changed when I watched the captivating movie "Julie & Julia," which ignited a fire within me to take on a thrilling challenge and embark on my culinary journey.
 
 In the film, a talented writer, Julie Powell, takes on the audacious task of cooking through Julia Child's cookbook in a year. Her determination and passion for culinary arts inspired me to attempt something similar.
